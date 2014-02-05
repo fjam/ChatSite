@@ -1,0 +1,24 @@
+﻿body {
+    background-color:#b0c4de;
+}
+
+::selection {
+    background:#85BF25;
+}
+
+::-moz-selection {
+    background:#85BF25;
+}
+
+#header {
+    text-align:center;
+    font-size:30px;
+    color:red;
+}
+#footer {
+    text-align:center;
+    color:red;
+}
+#body {
+    text-align: center;
+}
